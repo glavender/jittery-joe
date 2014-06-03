@@ -18,8 +18,15 @@ margin-top: 0;
   border: 1px solid;
   border-radius: 20px;
   padding: 10px;
-  width: 300px;
+  width: 250px;
+  height: 140px;
   margin: 10px;
   float: left;
-
+  text-align: center;
+}
+.views-field-title{
+  font-style: italic;
+}
+.views-field-field-blend{
+  font-weight: bold;
 }
