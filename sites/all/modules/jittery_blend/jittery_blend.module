@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Blend feature.
+ */
+
+include_once 'jittery_blend.features.inc';

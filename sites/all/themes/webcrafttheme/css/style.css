@@ -1,0 +1,15 @@
+/**
+ * This file should get overwritten if Method 1 is used. If Method 2 is chosen,
+ * remove this comment and start adding your styles to this file.
+ */
+.form-item-title{
+  width: 200px;
+}
+
+.form-item-field-ratings-und{
+  padding-right: 20px;
+  float: left;
+}
+.radio+.radio, .checkbox+.checkbox {
+margin-top: 0;
+}
