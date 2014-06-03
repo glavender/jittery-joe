@@ -13,3 +13,13 @@
 .radio+.radio, .checkbox+.checkbox {
 margin-top: 0;
 }
+
+.views-row{
+  border: 1px solid;
+  border-radius: 20px;
+  padding: 10px;
+  width: 300px;
+  margin: 10px;
+  float: left;
+
+}
